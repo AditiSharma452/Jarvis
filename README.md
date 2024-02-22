@@ -2,15 +2,4 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Introducing ChatAssistant-Jarvis, your ultimate virtual companion driven by the cutting-edge GPT-3.5 technology! Jarvis is a sophisticated conversational AI tailored to lend a hand and actively participate in natural language dialogues. Explore this repository to access the complete codebase and resources necessary for effortlessly integrating Jarvis into your applications, websites, or projects.
